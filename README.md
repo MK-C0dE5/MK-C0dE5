@@ -1,8 +1,5 @@
-
-<center>
-
-# Hi 👋 I'm Mayur
-
+<h1 align="center">Hi 👋 I'm Mayur
+</h1>
 </center>
 🔭 Love to contribute in Open-source <br>
 🚀 I’m Interested in blockchain, cloud computing and logical building <br>
@@ -11,13 +8,10 @@
 ⚡ Fun Fact: If you are doing a work and it seems easy, you're doing it wrong.
 
 <br>
-
-</center>
   
 <!--  💞️ 🤝 💬-->
 
 ## 🌐 Socials
-<hr>
 
 <center>
 
@@ -35,7 +29,6 @@
 <br>
 
 ## 👨‍💻 Creation
-<hr>
 
 ### [Vitunix OS](https://vitunix.github.io) : Vitunix is an Arch-based Linux distribution designed specially for every engineers who are looking for a lightweight, customizable and easy-to-use operating system.
 
@@ -43,11 +36,10 @@
 <br>
 
 ## 📊 GitHub Stats
-<hr>
 <br>
-<center>
+<h1 align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bashlogs&theme=onedark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bashlogs&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</center>
+</h1>
