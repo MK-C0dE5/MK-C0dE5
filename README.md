@@ -40,6 +40,6 @@
 <h1 align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bashlogs&theme=onedark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bashlogs&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 </h1>
