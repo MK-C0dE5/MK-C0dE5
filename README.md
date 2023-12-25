@@ -32,6 +32,7 @@
 
 ### [Vitunix OS](https://vitunix.github.io) : Vitunix is an Arch-based Linux distribution designed specially for every engineers who are looking for a lightweight, customizable and easy-to-use operating system.
 
+### [AI Fusion](https://github.com/bashlogs/EDI-Project): AI Fusion is a user-friendly website that consolidates multiple AI generation tools, such as GPT-3, DALL-E, Replicate, and others, providing users with a convenient platform for seamless content generation using these technologies.
 
 <br>
 
