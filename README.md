@@ -32,9 +32,18 @@
 
 ### [Vitunix OS](https://vitunix.github.io) : Vitunix is an Arch-based Linux distribution designed specially for every engineers who are looking for a lightweight, customizable and easy-to-use operating system.
 
-### [AI Fusion](https://github.com/bashlogs/EDI-Project): AI Fusion is a user-friendly website that consolidates multiple AI generation tools, such as GPT-3, DALL-E, Replicate, and others, providing users with a convenient platform for seamless content generation using these technologies.
+### [AI Fusion](https://github.com/bashlogs/EDI-Project) : AI Fusion is a user-friendly website that consolidates multiple AI generation tools, such as GPT-3, DALL-E, Replicate, and others, providing users with a convenient platform for seamless content generation using these technologies.
+
+### [Nivesh - Financial Literacy](https://github.com/bashlogs/Financial-Literacy) : A platform that provides information about budgeting, saving, investing, and retirement planning. It also has features to record your budgets/expenses to analyze monthly expenditures, paper trading, forums and educational resources to help manage your financial burden.
+
+
+### [Steganography](https://github.com/bashlogs/Steganography.git) : Implemented some steagnography techniques to hide data in text, image, audio, video files. (Still Working on it).
 
 <br>
+
+## 📖 Blogs
+
+### [Kubernetes](https://bashlogs.gitbook.io/kubernetes) : A simple guide on Kubernetes for beginners. Contains info about installation in your system and information about pods, deployments, services, etc.
 
 ## 📊 GitHub Stats
 <br>
